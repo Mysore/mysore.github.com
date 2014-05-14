@@ -1,5 +1,7 @@
-The Saga of GCC + glibc continues
-==================================
+---
+title: The Horror: GCC and glibc
+layout: post
+---
 
 > ron minnich <rminnich@gmail.com>	 Wed, May 14, 2014 at 9:46 AM
 > Reply-To: akaros@lists.eecs.berkeley.edu
