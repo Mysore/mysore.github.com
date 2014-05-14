@@ -75,6 +75,8 @@ layout: post
 	Cc: ron minnich <rminnich@gmail.com>
 	It sucks, but try doing a make clean in there AND wiping away your installation directory.
 
+----------------------
+
 	ron minnich <rminnich@gmail.com>	 Wed, May 14, 2014 at 10:05 AM
 	Reply-To: akaros@lists.eecs.berkeley.edu
 	To: Kevin Klues <klueska@eecs.berkeley.edu>
