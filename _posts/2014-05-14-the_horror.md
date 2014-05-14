@@ -91,3 +91,17 @@ layout: post
 > OK, I'll try to see where I can get.
 > 
 > ron
+
+
+> ron minnich <rminnich@gmail.com>	 Wed, May 14, 2014 at 10:52 AM
+> Reply-To: akaros@lists.eecs.berkeley.edu
+> To: Kevin Klues <klueska@eecs.berkeley.edu>
+> Cc: akaros <akaros@lists.eecs.berkeley.edu>
+> What I really like is the way the bfd.h guys took a simple function
+> that might be called once and turned it into a cpp macro to do ..
+> what, precisely?
+> 
+> And in so doing created a horrible error situation just waiting to
+> bite you. I've fixed it, but I can't look in a mirror.
+> 
+> ron
